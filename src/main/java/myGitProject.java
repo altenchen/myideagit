@@ -3,6 +3,8 @@ public class myGitProject {
         int x = 5;
         int y = 11;
         int z = x * y;
-        System.out.println("c的计算值为：" + z);
+        int z1 = x + y;
+        System.out.println("z的计算值为：" + z);
+        System.out.println("z1的计算值为：" + z1);
     }
 }
